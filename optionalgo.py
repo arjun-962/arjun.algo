@@ -93,4 +93,4 @@ if run_button:
     st.subheader("📊 Simulation Events")
     st.dataframe(df, use_container_width=True)
 
-    st.info("✅ Simulation complete. This is for educational understanding of market behavior, not for trading use.")
+    st.info("✅ Simulation complete. This is for educational understanding of market behavior, not for trading use.") 
